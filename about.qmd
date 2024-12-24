@@ -6,14 +6,11 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://x.com/open4177
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/kwonhyuckmin/
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/dataofmen
 ---
-
-About this blog
