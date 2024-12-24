@@ -10,7 +10,4 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/kwonhyuckmin/
-    - icon: github
-      text: Github
-      href: https://github.com/dataofmen
 ---
