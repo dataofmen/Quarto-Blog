@@ -3,6 +3,8 @@ project:
 
 website:
   title: "My Logs"
+  site-url: "https://open4177.netlify.app/"
+  site-path: "/"
   navbar:
     right:
       - about.qmd
