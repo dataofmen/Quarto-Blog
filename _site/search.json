@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "My Logs",
     "section": "",
-    "text": "블로그 시작합니다.\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 25, 2024\n\n\nhmkwon\n\n\n\n\n\n\nNo matching items"
+    "text": "새로운 글 배포하는 방법\n\n\n\n\n\n\nhow to\n\n\n\n\n\n\n\n\n\nJan 9, 2025\n\n\nhmkwon\n\n\n\n\n\n\n\n\n\n\n\n\n블로그 시작합니다.\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 25, 2024\n\n\nhmkwon\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -26,5 +26,12 @@
     "title": "About",
     "section": "",
     "text": "UX 리서처 / UX researcher\n읽기보다 책 사기가 취미 / Book shopping enthusiast\n자녀 교육 덕후 / Passionate parent about education"
+  },
+  {
+    "objectID": "posts/new_posts/index.html",
+    "href": "posts/new_posts/index.html",
+    "title": "새로운 글 배포하는 방법",
+    "section": "",
+    "text": "Quarto Blog &gt; posts에 새로운 블로그 글을 작성할 폴더를 만든다.\n폴더명은 글의 제목을 나타내는 키워드를 영어로 작성한다.\n이 폴더명이 블로그 글 주소가 된다.\n새로 만든 폴더 안에 .qmd 파일을 생성하고 블로그 템플릿을 참고하여 새 글을 작성한다.\n글을 작성한 뒤 Render를 해서 html 파일을 생성한다.\n_site 폴더 안에 내가 만든 포스팅 폴더가 추가 되었는지 확인한다.\nGithub에 변경된 내용을 커밋 & 푸쉬한다."
   }
 ]
