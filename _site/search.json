@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "blog",
     "section": "",
-    "text": "글 목록:\n\n\n\n\n\nTitle\n\n\nDate\n\n\nReading Time\n\n\n\n\n\n\nFont Awesome Quarto Extension\n\n\n2025-01-13\n\n\n3 min\n\n\n\n\n새로운 글 배포하는 방법\n\n\n2025-01-09\n\n\n1 min\n\n\n\n\n블로그 시작합니다.\n\n\n2024-12-25\n\n\n1 min\n\n\n\n\n\nNo matching items"
+    "text": "글 목록:\n\n\n\n\n\nTitle\n\n\nDate\n\n\nReading Time\n\n\n\n\n\n\nFont Awesome Quarto Extension\n\n\n2025-01-13\n\n\n1 min\n\n\n\n\n새로운 글 배포하는 방법\n\n\n2025-01-09\n\n\n1 min\n\n\n\n\n블로그 시작합니다.\n\n\n2024-12-25\n\n\n1 min\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -39,6 +39,20 @@
     "href": "posts/font_awesome/index.html",
     "title": "Font Awesome Quarto Extension",
     "section": "",
-    "text": "Font Awesome Quarto Extension을 설치했어요.\n이 확장 프로그램을 사용하면 Quarto HTML 및 PDF 문서에서 Font Awesome Icon을 사용할 수 있어요.\n\nMandatory &lt;icon-name&gt;:\n{{&lt; fa &lt;icon-name&gt; &gt;}}\nOptional &lt;group&gt;, &lt;size=...&gt;, and &lt;title=...&gt;:\n{{&lt; fa &lt;group&gt; &lt;icon-name&gt; &lt;size=...&gt; &lt;title=...&gt; &gt;}}\n\n예시:\n\n\n\n\n\n\n\nShortcode\nIcon\n\n\n\n\n{{&lt; fa thumbs-up &gt;}}\n\n\n\n{{&lt; fa folder &gt;}}\n\n\n\n{{&lt; fa chess-pawn &gt;}}\n\n\n\n{{&lt; fa brands bluetooth &gt;}}\n\n\n\n{{&lt; fa brands twitter size=2xl &gt;}} (HTML only)\n\n\n\n{{&lt; fa brands github size=5x &gt;}} (HTML only)\n\n\n\n{{&lt; fa battery-half size=Huge &gt;}}\n\n\n\n{{&lt; fa envelope title=\"An envelope\" &gt;}}"
+    "text": "이 확장 프로그램을 사용하면 Quarto HTML 및 PDF 문서에서 Font Awesome Icon을 사용할 수 있어요.\n\nMandatory &lt;icon-name&gt;:\n{{&lt; fa &lt;icon-name&gt; &gt;}}\nOptional &lt;group&gt;, &lt;size=...&gt;, and &lt;title=...&gt;:\n{{&lt; fa &lt;group&gt; &lt;icon-name&gt; &lt;size=...&gt; &lt;title=...&gt; &gt;}}"
+  },
+  {
+    "objectID": "posts/font_awesome/index.html#font-awesome-quarto-extension",
+    "href": "posts/font_awesome/index.html#font-awesome-quarto-extension",
+    "title": "Font Awesome Quarto Extension",
+    "section": "",
+    "text": "이 확장 프로그램을 사용하면 Quarto HTML 및 PDF 문서에서 Font Awesome Icon을 사용할 수 있어요.\n\nMandatory &lt;icon-name&gt;:\n{{&lt; fa &lt;icon-name&gt; &gt;}}\nOptional &lt;group&gt;, &lt;size=...&gt;, and &lt;title=...&gt;:\n{{&lt; fa &lt;group&gt; &lt;icon-name&gt; &lt;size=...&gt; &lt;title=...&gt; &gt;}}"
+  },
+  {
+    "objectID": "posts/font_awesome/index.html#예시",
+    "href": "posts/font_awesome/index.html#예시",
+    "title": "Font Awesome Quarto Extension",
+    "section": "예시",
+    "text": "예시\n\n\n\n\n\n\n\nShortcode\nIcon\n\n\n\n\n{{&lt; fa thumbs-up &gt;}}\n\n\n\n{{&lt; fa folder &gt;}}\n\n\n\n{{&lt; fa chess-pawn &gt;}}\n\n\n\n{{&lt; fa brands bluetooth &gt;}}\n\n\n\n{{&lt; fa brands twitter size=2xl &gt;}} (HTML only)\n\n\n\n{{&lt; fa brands github size=5x &gt;}} (HTML only)\n\n\n\n{{&lt; fa battery-half size=Huge &gt;}}\n\n\n\n{{&lt; fa envelope title=\"An envelope\" &gt;}}"
   }
 ]

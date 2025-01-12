@@ -13,7 +13,10 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/kwonhyuckmin/
   page-footer: "Copyright 2025, Kwon Hyuckmin" 
-
+  comments: 
+    hypothesis:
+      theme: clean
+      openSidebar: false
 
 format:
   html:

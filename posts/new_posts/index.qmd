@@ -3,24 +3,28 @@ title: "새로운 글 배포하는 방법"
 author: "hmkwon"
 date: "2025-01-09"
 categories: [how to]
+format:
+  html:
+    toc: true
+    toc-location: left
 ---
 
 -   Quarto Blog \> posts에 새로운 블로그 글을 작성할 폴더를 만든다.\
-    ![](images/CleanShot 2025-01-09 at 07.24.48-RStudio-Quarto Blog - main - RStudio.png)
+    ![](images/CleanShot%202025-01-09%20at%2007.24.48-RStudio-Quarto%20Blog%20-%20main%20-%20RStudio.png)
 
 -   폴더명은 글의 제목을 나타내는 키워드를 영어로 작성한다.\
-    ![](images/CleanShot 2025_01_09_RStudio_000002.png)
+    ![](images/CleanShot%202025_01_09_RStudio_000002.png)
 
 -   이 폴더명이 블로그 글 주소가 된다.\
-    ![](images/CleanShot 2025_01_09_000003.png)
+    ![](images/CleanShot%202025_01_09_000003.png)
 
 -   새로 만든 폴더 안에 .qmd 파일을 생성하고 블로그 템플릿을 참고하여 새 글을 작성한다.\
-    ![](images/CleanShot 2025-01-09 at 07.27.47-RStudio-Quarto Blog - main - RStudio.png)
+    ![](images/CleanShot%202025-01-09%20at%2007.27.47-RStudio-Quarto%20Blog%20-%20main%20-%20RStudio.png)
 
 -   글을 작성한 뒤 Render를 해서 html 파일을 생성한다.\
-    ![](images/CleanShot 2025-01-09 at 07.28.17-RStudio-Quarto Blog - main - RStudio.png)
+    ![](images/CleanShot%202025-01-09%20at%2007.28.17-RStudio-Quarto%20Blog%20-%20main%20-%20RStudio.png)
 
 -   \_site 폴더 안에 내가 만든 포스팅 폴더가 추가 되었는지 확인한다.\
-    ![](images/CleanShot 2025-01-09 at 07.29.49-RStudio-Quarto Blog - main - RStudio.png)
+    ![](images/CleanShot%202025-01-09%20at%2007.29.49-RStudio-Quarto%20Blog%20-%20main%20-%20RStudio.png)
 
 -   Github에 변경된 내용을 커밋 & 푸쉬한다.\

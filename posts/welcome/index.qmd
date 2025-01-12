@@ -3,6 +3,10 @@ title: "블로그 시작합니다."
 author: "hmkwon"
 date: "2024-12-25"
 categories: [news]
+format:
+  html:
+    toc: true
+    toc-location: left
 ---
 
 Quarto + Netlify 조합으로 블로그 시작합니다.
