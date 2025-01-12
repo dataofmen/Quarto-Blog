@@ -12,6 +12,8 @@ website:
         href: https://x.com/open4177
       - icon: linkedin
         href: https://www.linkedin.com/in/kwonhyuckmin/
+  sidebar:
+    contents: auto
   page-footer: "Copyright 2025, Kwon Hyuckmin" 
 
 
