@@ -3,6 +3,7 @@
     "listing": "/index.html",
     "items": [
       "/posts/font_awesome/index.html",
+      "/posts/domain/index.html",
       "/posts/new_posts/index.html",
       "/posts/welcome/index.html"
     ]
