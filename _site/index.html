@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>My Logs</title>
+<title>blog – My Logs</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -71,20 +71,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-blog-listings .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-date','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-blog-listings'] = new List('listing-blog-listings', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -172,13 +172,13 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">My Logs</h1>
+    <div class="quarto-title column-page">
+      <h1 class="title">blog</h1>
                       </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta column-page">
 
       
     
@@ -189,127 +189,75 @@ window.Quarto = {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="aG93JTIwdG8=">how to <span class="quarto-category-count">(2)</span></div><div class="category" data-category="bmV3cw==">news <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
 
 
 
 
 
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="aG93JTIwdG8=" data-listing-date-sort="1736694000000" data-listing-file-modified-sort="1736699567194" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="461">
-<div class="thumbnail">
-<p><a href="./posts/font_awesome/index.html" class="no-external"></a></p><a href="./posts/font_awesome/index.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/font_awesome/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/font_awesome/index.html" class="no-external">Font Awesome Quarto Extension</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/font_awesome/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('aG93JTIwdG8='); return false;">
-how to
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/font_awesome/index.html" class="no-external">Font Awesome Quarto Extension을 설치했어요.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/font_awesome/index.html" class="no-external">
-<div class="listing-date">
-Jan 13, 2025
-</div>
-<div class="listing-author">
-hmkwon
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="aG93JTIwdG8=" data-listing-date-sort="1736348400000" data-listing-file-modified-sort="1736376267377" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="133">
-<div class="thumbnail">
-<p><a href="./posts/new_posts/index.html" class="no-external"></a></p><a href="./posts/new_posts/index.html" class="no-external">
-<p class="card-img-top"><img src="posts/new_posts/images/CleanShot 2025-01-09 at 07.24.48-RStudio-Quarto Blog - main - RStudio.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/new_posts/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/new_posts/index.html" class="no-external">새로운 글 배포하는 방법</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/new_posts/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('aG93JTIwdG8='); return false;">
-how to
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/new_posts/index.html" class="no-external">Quarto Blog &gt; posts에 새로운 블로그 글을 작성할 폴더를 만든다.<br>
-</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/new_posts/index.html" class="no-external">
-<div class="listing-date">
-Jan 9, 2025
-</div>
-<div class="listing-author">
-hmkwon
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="bmV3cw==" data-listing-date-sort="1735052400000" data-listing-file-modified-sort="1735073053593" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
-<div class="thumbnail">
-<p><a href="./posts/welcome/index.html" class="no-external"></a></p><a href="./posts/welcome/index.html" class="no-external">
-<p class="card-img-top"><img src="posts/welcome/thumbnail.jpg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/welcome/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/welcome/index.html" class="no-external">블로그 시작합니다.</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/welcome/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">
-news
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/welcome/index.html" class="no-external">Quarto + Netlify 조합으로 블로그 시작합니다.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/welcome/index.html" class="no-external">
-<div class="listing-date">
-Dec 25, 2024
-</div>
-<div class="listing-author">
-hmkwon
-</div>
-</a>
-</div>
-</div>
-</div>
+<p>글 목록:</p>
+<div id="listing-blog-listings" class="quarto-listing quarto-listing-container-table">
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+Title
+</th>
+<th>
+Date
+</th>
+<th>
+Reading Time
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-categories="aG93JTIwdG8=" data-listing-date-sort="1736694000000" data-listing-file-modified-sort="1736699567194" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="461" data-listing-title-sort="Font Awesome Quarto Extension" data-listing-filename-sort="index.qmd">
+<td>
+<a href="./posts/font_awesome/index.html" class="title listing-title">Font Awesome Quarto Extension</a>
+</td>
+<td>
+<span class="listing-date">2025-01-13</span>
+</td>
+<td>
+<span class="listing-reading-time">3 min</span>
+</td>
+</tr>
+<tr data-index="1" data-categories="aG93JTIwdG8=" data-listing-date-sort="1736348400000" data-listing-file-modified-sort="1736376267377" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="133" data-listing-title-sort="새로운 글 배포하는 방법" data-listing-filename-sort="index.qmd">
+<td>
+<a href="./posts/new_posts/index.html" class="title listing-title">새로운 글 배포하는 방법</a>
+</td>
+<td>
+<span class="listing-date">2025-01-09</span>
+</td>
+<td>
+<span class="listing-reading-time">1 min</span>
+</td>
+</tr>
+<tr data-index="2" data-categories="bmV3cw==" data-listing-date-sort="1735052400000" data-listing-file-modified-sort="1735073053593" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6" data-listing-title-sort="블로그 시작합니다." data-listing-filename-sort="index.qmd">
+<td>
+<a href="./posts/welcome/index.html" class="title listing-title">블로그 시작합니다.</a>
+</td>
+<td>
+<span class="listing-date">2024-12-25</span>
+</td>
+<td>
+<span class="listing-reading-time">1 min</span>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div></main> <!-- /main -->
+</div>
+
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
