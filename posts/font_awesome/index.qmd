@@ -1,8 +1,8 @@
 ---
 title: "Font Awesome Quarto Extension"
-format:
-   html: default
-   pdf: default
+author: "hmkwon"
+date: "2025-01-13"
+categories: [how to]
 ---
 
 Font Awesome Quarto Extension을 설치했어요.

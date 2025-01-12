@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "My Logs",
     "section": "",
-    "text": "Font Awesome Quarto Extension\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n새로운 글 배포하는 방법\n\n\n\n\n\n\nhow to\n\n\n\n\n\n\n\n\n\nJan 9, 2025\n\n\nhmkwon\n\n\n\n\n\n\n\n\n\n\n\n\n블로그 시작합니다.\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 25, 2024\n\n\nhmkwon\n\n\n\n\n\n\nNo matching items"
+    "text": "Font Awesome Quarto Extension\n\n\n\n\n\n\nhow to\n\n\n\n\n\n\n\n\n\nJan 13, 2025\n\n\nhmkwon\n\n\n\n\n\n\n\n\n\n\n\n\n새로운 글 배포하는 방법\n\n\n\n\n\n\nhow to\n\n\n\n\n\n\n\n\n\nJan 9, 2025\n\n\nhmkwon\n\n\n\n\n\n\n\n\n\n\n\n\n블로그 시작합니다.\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 25, 2024\n\n\nhmkwon\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -39,6 +39,6 @@
     "href": "posts/font_awesome/index.html",
     "title": "Font Awesome Quarto Extension",
     "section": "",
-    "text": "This extension allows you to use font-awesome icons in your Quarto HTML and PDF documents. It provides an {{&lt; fa &gt;}} shortcode:\n\nMandatory &lt;icon-name&gt;:\n{{&lt; fa &lt;icon-name&gt; &gt;}}\nOptional &lt;group&gt;, &lt;size=...&gt;, and &lt;title=...&gt;:\n{{&lt; fa &lt;group&gt; &lt;icon-name&gt; &lt;size=...&gt; &lt;title=...&gt; &gt;}}\n\nFor example:\n\n\n\n\n\n\n\nShortcode\nIcon\n\n\n\n\n{{&lt; fa thumbs-up &gt;}}\n\n\n\n{{&lt; fa folder &gt;}}\n\n\n\n{{&lt; fa chess-pawn &gt;}}\n\n\n\n{{&lt; fa brands bluetooth &gt;}}\n\n\n\n{{&lt; fa brands twitter size=2xl &gt;}} (HTML only)\n\n\n\n{{&lt; fa brands github size=5x &gt;}} (HTML only)\n\n\n\n{{&lt; fa battery-half size=Huge &gt;}}\n\n\n\n{{&lt; fa envelope title=\"An envelope\" &gt;}}\n\n\n\n\nNote that the icon sets are currently not perfectly interchangeable across formats:\n\nhtml uses FontAwesome 6.4.2\npdf uses the fontawesome5 package, based on FontAwesome 5.\nOther formats are currently not supported, but PRs are always welcome!"
+    "text": "Font Awesome Quarto Extension을 설치했어요.\n이 확장 프로그램을 사용하면 Quarto HTML 및 PDF 문서에서 Font Awesome Icon을 사용할 수 있어요.\n\nMandatory &lt;icon-name&gt;:\n{{&lt; fa &lt;icon-name&gt; &gt;}}\nOptional &lt;group&gt;, &lt;size=...&gt;, and &lt;title=...&gt;:\n{{&lt; fa &lt;group&gt; &lt;icon-name&gt; &lt;size=...&gt; &lt;title=...&gt; &gt;}}\n\n예시:\n\n\n\n\n\n\n\nShortcode\nIcon\n\n\n\n\n{{&lt; fa thumbs-up &gt;}}\n\n\n\n{{&lt; fa folder &gt;}}\n\n\n\n{{&lt; fa chess-pawn &gt;}}\n\n\n\n{{&lt; fa brands bluetooth &gt;}}\n\n\n\n{{&lt; fa brands twitter size=2xl &gt;}} (HTML only)\n\n\n\n{{&lt; fa brands github size=5x &gt;}} (HTML only)\n\n\n\n{{&lt; fa battery-half size=Huge &gt;}}\n\n\n\n{{&lt; fa envelope title=\"An envelope\" &gt;}}"
   }
 ]

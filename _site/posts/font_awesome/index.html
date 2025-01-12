@@ -6,6 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="hmkwon">
+<meta name="dcterms.date" content="2025-01-13">
 
 <title>Font Awesome Quarto Extension – My Logs</title>
 <style>
@@ -107,7 +109,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
@@ -150,13 +152,28 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
       <h1 class="title">Font Awesome Quarto Extension</h1>
-                      </div>
+                                <div class="quarto-categories">
+                <div class="quarto-category">how to</div>
+              </div>
+                  </div>
   </div>
     
   
   <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>hmkwon </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">January 13, 2025</p>
+      </div>
+    </div>
     
       
     </div>
@@ -165,9 +182,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="index.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></div>
+    
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
@@ -175,14 +190,15 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 
-<p>This extension allows you to use font-awesome icons in your Quarto HTML and PDF documents. It provides an <code>{{&lt; fa &gt;}}</code> shortcode:</p>
+<p>Font Awesome Quarto Extension을 설치했어요.</p>
+<p>이 확장 프로그램을 사용하면 Quarto HTML 및 PDF 문서에서 Font Awesome Icon을 사용할 수 있어요.</p>
 <ul>
 <li><p>Mandatory <code>&lt;icon-name&gt;</code>:</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>{{&lt; fa &lt;icon-name&gt; &gt;}}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
 <li><p>Optional <code>&lt;group&gt;</code>, <code>&lt;size=...&gt;</code>, and <code>&lt;title=...&gt;</code>:</p>
 <div class="sourceCode" id="cb2"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>{{&lt; fa &lt;group&gt; &lt;icon-name&gt; &lt;size=...&gt; &lt;title=...&gt; &gt;}}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
 </ul>
-<p>For example:</p>
+<p>예시:</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 54%">
@@ -229,12 +245,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </tr>
 </tbody>
 </table>
-<p>Note that the icon sets are currently not perfectly interchangeable across formats:</p>
-<ul>
-<li><code>html</code> uses FontAwesome 6.4.2</li>
-<li><code>pdf</code> uses the <code>fontawesome5</code> package, based on <a href="https://ctan.org/pkg/fontawesome5">FontAwesome 5</a>.</li>
-<li>Other formats are currently not supported, but PRs are always welcome!</li>
-</ul>
 
 
 
