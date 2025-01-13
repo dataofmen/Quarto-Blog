@@ -29,7 +29,7 @@ format:
 ## 예시
 
 | Shortcode | Icon |
-|---------------------------------------|---------------------------------|
+|----|----|
 | `{{{< fa thumbs-up >}}}` | {{< fa thumbs-up >}} |
 | `{{{< fa folder >}}}` | {{< fa folder >}} |
 | `{{{< fa chess-pawn >}}}` | {{< fa chess-pawn >}} |

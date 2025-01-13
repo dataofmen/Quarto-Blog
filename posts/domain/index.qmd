@@ -33,14 +33,14 @@ format:
 ## 가격이 저렴해 보이는 Namecheap으로 결정
 
 -   <https://www.namecheap.com/domains/> 에서 10년 기준으로 저렴한 도메인을 찾음\
-    [![10년 기준으로 저렴한 도메인 찾기](images/CleanShot 2025_01_13_000024.png)](https://www.namecheap.com/domains/)
+    [![10년 기준으로 저렴한 도메인 찾기](images/CleanShot%202025_01_13_000024.png)](https://www.namecheap.com/domains/)
 
 -   원래 사용하던 닉네임과 매칭 시킬 수 있는 .men으로 결정
 
 ## 결제 완료!
 
 -   결제 과정에서 전에 다른 사이트에서 결제했던 기록이 저장되어 있는 [link](https://link.com/) 로 결제할 수 있어서 편리했음\
-    [![link로 결제](images/CleanShot 2025_01_13_000025.png)](https://link.com/)\
+    [![link로 결제](images/CleanShot%202025_01_13_000025.png)](https://link.com/)\
 
 -   ::: callout-note
     ## link로 결제하면 편리한 이유

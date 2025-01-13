@@ -1,1 +1,1 @@
-Sitemap: https://open4177.netlify.app/sitemap.xml
+Sitemap: https://dataof.men/sitemap.xml

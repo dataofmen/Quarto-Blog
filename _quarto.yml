@@ -2,8 +2,8 @@ project:
   type: website
 
 website:
-  title: "My Logs"
-  site-url: "https://open4177.netlify.app/"
+  title: "Data of Men"
+  site-url: "https://dataof.men"
   site-path: "/"
   navbar:
     right:
@@ -12,7 +12,7 @@ website:
         href: https://x.com/open4177
       - icon: linkedin
         href: https://www.linkedin.com/in/kwonhyuckmin/
-  page-footer: "Copyright 2025, Kwon Hyuckmin" 
+  page-footer: "Copyright 2025, dataof.men" 
 
 format:
   html:
