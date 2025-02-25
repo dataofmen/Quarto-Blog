@@ -8,5 +8,15 @@
       "/posts/new_posts/index.html",
       "/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/theme/index.html",
+      "/posts/font_awesome/index.html",
+      "/posts/domain/index.html",
+      "/posts/new_posts/index.html",
+      "/posts/welcome/index.html"
+    ]
   }
 ]

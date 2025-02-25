@@ -8,11 +8,7 @@ website:
   navbar:
     right:
       - about.qmd
-      - icon: twitter
-        href: https://x.com/open4177
-      - icon: linkedin
-        href: https://www.linkedin.com/in/kwonhyuckmin/
-  page-footer: "Copyright 2025, dataof.men" 
+  page-footer: "License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
 
 format:
   html:

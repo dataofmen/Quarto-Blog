@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "blog",
+    "title": "Data of Men",
     "section": "",
-    "text": "글 목록:\n\n\n\n\n\n내가 공부할 테마와 키워드\n\n\n\n\n\n\n\n\n\n\n\n\n\nFont Awesome Quarto Extension\n\n\n\n\n\n\n\n\n\n\n\n\n\nnamecheap에서 domain 구입\n\n\n\n\n\n\n\n\n\n\n\n\n\n새로운 글 배포하는 방법\n\n\n\n\n\n\n\n\n\n\n\n\n\n블로그 시작합니다.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "UX 리서처 / UX researcher\n읽기보다 책 사기가 취미 / Book shopping enthusiast\n자녀 교육 덕후 / Passionate parent about education"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -117,5 +117,12 @@
     "title": "Hello, Quarto",
     "section": "Equation",
     "text": "Equation\nUse LaTeX to write equations:\n\\[\n\\chi' = \\sum_{i=1}^n k_i s_i^2\n\\]"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "blog",
+    "section": "",
+    "text": "글 목록:\n\n\n\n\n\n내가 공부할 테마와 키워드\n\n\n\n\n\n\n\n\n\n\n\n\n\nFont Awesome Quarto Extension\n\n\n\n\n\n\n\n\n\n\n\n\n\nnamecheap에서 domain 구입\n\n\n\n\n\n\n\n\n\n\n\n\n\n새로운 글 배포하는 방법\n\n\n\n\n\n\n\n\n\n\n\n\n\n블로그 시작합니다.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
