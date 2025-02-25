@@ -8,7 +8,7 @@ website:
   navbar:
     right:
       - about.qmd
-  page-footer: "License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+  page-footer: "License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ko)."
 
 format:
   html:
