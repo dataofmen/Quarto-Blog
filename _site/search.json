@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "blog",
     "section": "",
-    "text": "글 목록:\n\n\n\n\n\nTitle\n\n\nDate\n\n\nReading Time\n\n\n\n\n\n\n내가 공부할 테마와 키워드\n\n\n2025-01-14\n\n\n1 min\n\n\n\n\nFont Awesome Quarto Extension\n\n\n2025-01-13\n\n\n1 min\n\n\n\n\nnamecheap에서 domain 구입\n\n\n2025-01-13\n\n\n2 min\n\n\n\n\n새로운 글 배포하는 방법\n\n\n2025-01-09\n\n\n1 min\n\n\n\n\n블로그 시작합니다.\n\n\n2024-12-25\n\n\n1 min\n\n\n\n\n\nNo matching items"
+    "text": "글 목록:\n\n\n\n\n\n내가 공부할 테마와 키워드\n\n\n\n\n\n\n\n\n\n\n\n\n\nFont Awesome Quarto Extension\n\n\n\n\n\n\n\n\n\n\n\n\n\nnamecheap에서 domain 구입\n\n\n\n\n\n\n\n\n\n\n\n\n\n새로운 글 배포하는 방법\n\n\n\n\n\n\n\n\n\n\n\n\n\n블로그 시작합니다.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -89,5 +89,33 @@
     "title": "내가 공부할 테마와 키워드",
     "section": "",
     "text": "뇌과학\n투자\n데이터 과학\nUX\n글쓰기\n철학\n역사\n건강\n자기계발\n예술"
+  },
+  {
+    "objectID": "walkthrough.html",
+    "href": "walkthrough.html",
+    "title": "Hello, Quarto",
+    "section": "",
+    "text": "Markdown is an easy to read and write text format:\n\nIt’s plain text so works well with version control\nIt can be rendered into HTML, PDF, and more\nLearn more at: https://quarto.org/docs/authoring/"
+  },
+  {
+    "objectID": "walkthrough.html#markdown",
+    "href": "walkthrough.html#markdown",
+    "title": "Hello, Quarto",
+    "section": "",
+    "text": "Markdown is an easy to read and write text format:\n\nIt’s plain text so works well with version control\nIt can be rendered into HTML, PDF, and more\nLearn more at: https://quarto.org/docs/authoring/"
+  },
+  {
+    "objectID": "walkthrough.html#code-cell",
+    "href": "walkthrough.html#code-cell",
+    "title": "Hello, Quarto",
+    "section": "Code Cell",
+    "text": "Code Cell\nHere is a Python code cell:\n\nimport os\nos.cpu_count()\n\n12"
+  },
+  {
+    "objectID": "walkthrough.html#equation",
+    "href": "walkthrough.html#equation",
+    "title": "Hello, Quarto",
+    "section": "Equation",
+    "text": "Equation\nUse LaTeX to write equations:\n\\[\n\\chi' = \\sum_{i=1}^n k_i s_i^2\n\\]"
   }
 ]
