@@ -3,13 +3,6 @@ title: "About"
 image: profile.jpeg
 about:
   template: jolla
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://x.com/open4177
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/kwonhyuckmin/
 ---
 
 UX 리서처 / UX researcher
