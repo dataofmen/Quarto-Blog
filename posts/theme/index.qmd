@@ -9,6 +9,8 @@ format:
     toc-location: left
 ---
 
+![](images/Untitled%20diagram-2025-03-14-173553.png){fig-alt="공부주제 마인드맵" width="80%"}
+
 1.  **뇌과학**
 2.  **투자**
 3.  **데이터 과학**
