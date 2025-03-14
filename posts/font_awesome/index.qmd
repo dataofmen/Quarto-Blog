@@ -10,6 +10,8 @@ format:
     toc-title: Table of Contents
 ---
 
+![](images/CleanShot 2025_03_15_000351.png){fig-alt="Font Awesome"}
+
 ## Font Awesome Quarto Extension?
 
 이 확장 프로그램을 사용하면 Quarto HTML 및 PDF 문서에서 Font Awesome Icon을 사용할 수 있어요.
@@ -29,7 +31,7 @@ format:
 ## 예시
 
 | Shortcode | Icon |
-|----|----|
+|------------------------------------|------------------------------------|
 | `{{{< fa thumbs-up >}}}` | {{< fa thumbs-up >}} |
 | `{{{< fa folder >}}}` | {{< fa folder >}} |
 | `{{{< fa chess-pawn >}}}` | {{< fa chess-pawn >}} |

@@ -45,8 +45,8 @@
     "objectID": "posts/font_awesome/index.html#font-awesome-quarto-extension",
     "href": "posts/font_awesome/index.html#font-awesome-quarto-extension",
     "title": "Font Awesome Quarto Extension",
-    "section": "",
-    "text": "이 확장 프로그램을 사용하면 Quarto HTML 및 PDF 문서에서 Font Awesome Icon을 사용할 수 있어요.\n\nMandatory &lt;icon-name&gt;:\n{{&lt; fa &lt;icon-name&gt; &gt;}}\nOptional &lt;group&gt;, &lt;size=...&gt;, and &lt;title=...&gt;:\n{{&lt; fa &lt;group&gt; &lt;icon-name&gt; &lt;size=...&gt; &lt;title=...&gt; &gt;}}"
+    "section": "Font Awesome Quarto Extension?",
+    "text": "Font Awesome Quarto Extension?\n이 확장 프로그램을 사용하면 Quarto HTML 및 PDF 문서에서 Font Awesome Icon을 사용할 수 있어요.\n\nMandatory &lt;icon-name&gt;:\n{{&lt; fa &lt;icon-name&gt; &gt;}}\nOptional &lt;group&gt;, &lt;size=...&gt;, and &lt;title=...&gt;:\n{{&lt; fa &lt;group&gt; &lt;icon-name&gt; &lt;size=...&gt; &lt;title=...&gt; &gt;}}"
   },
   {
     "objectID": "posts/font_awesome/index.html#예시",
