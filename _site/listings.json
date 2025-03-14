@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/blog.html",
     "items": [
       "/posts/theme/index.html",
       "/posts/font_awesome/index.html",
@@ -10,7 +10,7 @@
     ]
   },
   {
-    "listing": "/blog.html",
+    "listing": "/index.html",
     "items": [
       "/posts/theme/index.html",
       "/posts/font_awesome/index.html",

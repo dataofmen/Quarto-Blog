@@ -1,32 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://open4177.netlify.app/index.html</loc>
-    <lastmod>2025-01-12T17:41:16.283Z</lastmod>
-  </url>
-  <url>
-    <loc>https://open4177.netlify.app/posts/new_posts/index.html</loc>
-    <lastmod>2025-01-12T17:33:19.536Z</lastmod>
-  </url>
-  <url>
-    <loc>https://open4177.netlify.app/posts/font_awesome/index.html</loc>
-    <lastmod>2025-01-12T17:47:42.074Z</lastmod>
-  </url>
-  <url>
-    <loc>https://open4177.netlify.app/posts/welcome/index.html</loc>
-    <lastmod>2025-01-12T17:32:16.504Z</lastmod>
-  </url>
-  <url>
-    <loc>https://open4177.netlify.app/posts/domain/index.html</loc>
-    <lastmod>2025-01-12T18:43:38.759Z</lastmod>
+    <loc>https://dataof.men/blog.html</loc>
+    <lastmod>2025-03-14T17:05:32.634Z</lastmod>
   </url>
   <url>
     <loc>https://dataof.men/index.html</loc>
     <lastmod>2025-03-14T17:39:04.026Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dataof.men/posts/welcome/index.html</loc>
-    <lastmod>2025-02-25T00:28:25.403Z</lastmod>
   </url>
   <url>
     <loc>https://dataof.men/posts/new_posts/index.html</loc>
@@ -37,23 +17,19 @@
     <lastmod>2025-03-14T17:29:52.563Z</lastmod>
   </url>
   <url>
-    <loc>https://dataof.men/posts/domain/index.html</loc>
-    <lastmod>2025-02-25T00:28:25.356Z</lastmod>
+    <loc>https://dataof.men/posts/welcome/index.html</loc>
+    <lastmod>2025-02-25T00:28:25.403Z</lastmod>
   </url>
   <url>
     <loc>https://dataof.men/posts/theme/index.html</loc>
     <lastmod>2025-03-14T17:37:29.796Z</lastmod>
   </url>
   <url>
-    <loc>https://dataof.men/walkthrough.html</loc>
-    <lastmod>2025-02-25T00:45:14.838Z</lastmod>
+    <loc>https://dataof.men/posts/domain/index.html</loc>
+    <lastmod>2025-02-25T00:28:25.356Z</lastmod>
   </url>
   <url>
     <loc>https://dataof.men/about.html</loc>
     <lastmod>2025-03-14T16:57:27.243Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dataof.men/blog.html</loc>
-    <lastmod>2025-03-14T17:05:32.634Z</lastmod>
   </url>
 </urlset>
