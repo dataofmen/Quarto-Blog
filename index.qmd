@@ -1,16 +1,16 @@
 ---
-image: profile.jpeg
-about:
-  template: jolla
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://x.com/open4177
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/kwonhyuckmin/
+listing:
+  id: blog-listings
+  type: grid
+  contents: posts
+  sort: "date desc"
+  sort-ui: false
+  filter-ui: false
+  date-format: "iso"
+  fields: [title, date, image]
+page-layout: full
+title-block-banner: true
 ---
 
-UX 리서처 / UX researcher
-
-읽기보다 책 사기가 취미 / Book collector
+::: {#blog-listings}
+:::

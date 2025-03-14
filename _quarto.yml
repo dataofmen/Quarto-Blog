@@ -6,8 +6,9 @@ website:
   site-url: "https://dataof.men"
   site-path: "/"
   navbar:
-    right:
-      - blog.qmd
+    left:
+      - text: "About"
+        href: about.qmd
   page-footer: "License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ko)."
 
 format:
